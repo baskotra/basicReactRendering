@@ -1,0 +1,12 @@
+ul,
+li {
+  margin: 0;
+  padding: 1;
+}
+h1,
+h2,
+h3,
+dl,
+dt {
+  text-indent: 10px;
+}
